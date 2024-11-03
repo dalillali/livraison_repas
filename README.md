@@ -28,9 +28,13 @@ server.port=8080
 ```
 ## Construction et Exécution du Projet
 Construire l'image Docker : Exécutez la commande suivante pour construire les images Docker :
+
 ```docker-compose build```
+
 Lancer les services : Après la construction, lancez les services avec :
+
 ```docker-compose up```
+
 Cette commande démarre à la fois l'application Spring Boot et la base de données MySQL. Vous devriez voir des logs des deux services.
 ## Accéder à l'Application
 Une fois les services démarrés, vous pouvez accéder à l'application à l'adresse suivante :
