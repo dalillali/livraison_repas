@@ -27,8 +27,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 server.port=8080
 ```
 ## Construction et Exécution du Projet
-Construire l'image Docker : Exécutez la commande suivante pour construire les images Docker : 
-
+Construire l'image Docker : Exécutez la commande suivante pour construire les images Docker :
 ```docker-compose build```
 Lancer les services : Après la construction, lancez les services avec :
 ```docker-compose up```
