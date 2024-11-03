@@ -5,7 +5,7 @@ Ce projet est une application Spring Boot configurée pour fonctionner avec Dock
 ## Prérequis
 Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
-Docker : Téléchargez et installez Docker depuis le site officiel de Docker.
+Docker : Téléchargez et installez Docker depuis [le site officiel de Docker.](https://www.docker.com/products/docker-desktop/)
 Docker Compose : Docker Compose est généralement inclus avec Docker Desktop, mais vérifiez que vous pouvez l'utiliser en exécutant ```docker-compose --version``` dans votre terminal.
 ## Cloner le Référentiel
 Ouvrez votre terminal.
