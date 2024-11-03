@@ -38,10 +38,10 @@ Une fois les services démarrés, vous pouvez accéder à l'application à l'adr
 ## Commandes Utiles
 Voici quelques commandes utiles pour gérer votre projet Docker :
 ### Arrêter les services :
-docker-compose down
+```docker-compose down```
 ### Redémarrer les services :
-docker-compose restart
+```docker-compose restart```
 ### Afficher les logs des services :
-docker-compose logs
+```docker-compose logs```
 
 
